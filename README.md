@@ -12,6 +12,8 @@ Created Javascript to run a simple employee payroll tracker that will give the a
 ![image](https://github.com/AlexHappel/Payroll-Tracker/assets/156026228/954173e4-956a-4656-94a8-011c06450472)
 
 
-Link:https://github.com/AlexHappel/Payroll-Tracker/actions/runs/8384196933 
+## Links
+https://alexhappel.github.io/Payroll-Tracker/ 
+
 
 
