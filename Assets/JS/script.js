@@ -31,8 +31,11 @@ const collectEmployees = function() {
 
     employeesArray.push(employee);
   }
-  console.log("Number of employees:", employeesArray.length);
+  
 }
+
+console.log("Number of employees:", employeesArray.length);
+
 return employeesArray;
 }
 // TODO: Get user input to create and return an array of employee object
