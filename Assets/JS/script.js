@@ -31,6 +31,7 @@ const collectEmployees = function() {
 
     employeesArray.push(employee);
   }
+  console.log("Number of employees:", employeesArray.length);
 }
 return employeesArray;
 }
